@@ -1,2 +1,3 @@
 # my-first-repo
-this is my first Git Repository.
+This is my first Git Repository.
+owner- Deepanshi Dhiman
