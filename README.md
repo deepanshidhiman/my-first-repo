@@ -1,4 +1,4 @@
 # my-first-repo
 This is my first Git Repository.
 <br>
-Owner- Deepanshi Dhiman
+Owner- Deepanshi (Student)
